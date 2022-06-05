@@ -8,4 +8,11 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+The sole purpose is testing
+
 ## How to Contibute
+
+Please dont.
+
+## By
+me
