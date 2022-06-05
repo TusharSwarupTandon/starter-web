@@ -15,6 +15,6 @@ The sole purpose is testing
 Please dont.
 
 ## By
-me
+me and me only
 
 2022.Git.Training
