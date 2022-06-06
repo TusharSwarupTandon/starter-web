@@ -8,7 +8,8 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-Added a new line
+Added a new line, more changes from feature branch
+
 The sole purpose is testing
 
 ## How to Contibute
