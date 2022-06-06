@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Added a new line
 The sole purpose is testing
 
 ## How to Contibute
