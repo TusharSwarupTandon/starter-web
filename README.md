@@ -9,8 +9,7 @@ Sample website with plenty of files for demos
 ## Purpose
 
 Added a new line, more changes from feature branch
-
-The sole purpose is testing
+mergency fix
 
 ## How to Contibute
 
